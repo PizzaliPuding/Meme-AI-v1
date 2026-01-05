@@ -1,0 +1,7 @@
+{
+  "name": "MemeGenius AI",
+  "description": "An advanced AI-powered meme generator that suggests context-aware captions, performs deep image analysis, and allows AI-driven image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
